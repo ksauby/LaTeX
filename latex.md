@@ -3,7 +3,7 @@
 
 ## To write LaTeX documents, use R Markdown
 
-In many ways, R Markdown is much easier to use than LaTeX directly.
+In many ways, R Markdown is much easier to use than LaTeX directly. Check out the resources on using R Markdown provided by RStudio: http://rmarkdown.rstudio.com/. These include a quick tour as well as links to "Markdown Basics", cheat sheets, and information on bibliographies and citations.
 
 ### Pros:
 - code is less distracting
