@@ -22,6 +22,10 @@ Creating a LaTeX bibliography (.bib file) is easy. Under your Google Scholar set
 
 Reference managers also offer a way to create a LaTeX bibliography. For Mendeley, see http://blog.mendeley.com/2011/10/25/howto-use-mendeley-to-create-citations-using-latex-and-bibtex/. 
 
+### Citation Styles
+
+Check out my notes here on formatting citations and references: https://github.com/ksauby/CitationStyles
+
 ## Equations
 
 I often use an online website to write my equations: https://www.codecogs.com/latex/eqneditor.php
